@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Radwane69/PascalTSnake/issues"
   },
-  "homepage": "https://github.com/Radwane69/PascalTSnake#readme"
+  "homepage": "https://github.com/Radwane69/PascalTSnake#readme",
+  "devDependencies": {
+    "mocha": "^9.2.1"
+  }
 }
